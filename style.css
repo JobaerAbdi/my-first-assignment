@@ -27,7 +27,8 @@ body{
     background-color: rgb(255, 68, 0);
     color: white;
     padding: 15px 30px;
-    font-size: 20px;font-weight: 700;
+    font-size: 20px;
+    font-weight: 700;
     border-radius: 8px;
     margin-left: 700px;
     margin-top: 25px;
@@ -122,9 +123,29 @@ body{
 }
 .four-div{
     display: flex;
+    margin-left: 150px;
+    margin-top: 150px;
 }
 .text-div{
     width: 50%;
+}
+.text-div h1{
+    font-size: 50px;
+    font-weight: bold;
+    width: 550px;
+}
+.text-div p{
+    font-size: 20px;
+    color: gray;
+    width: 550px;
+}
+.button{
+    background-color: rgb(255, 68, 0);
+    color: white;
+    padding: 15px 30px;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 8px;
 }
 .img-div{
     width: 50%;
