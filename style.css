@@ -155,3 +155,20 @@ body{
     height: 500px;
     border-radius: 10px;
 }
+#form{
+    padding: 100px 220px;
+    background: rgb(229, 245, 187);
+    width: 500px;
+    margin: 0 auto;
+}
+.email{
+    padding: 15px 40px;
+    font-size: 20px;
+    background-color: rgb(223, 215, 215);
+}
+.lebel{
+    padding: 15px 30px;
+    font-size: 20px;
+    background-color: orangered;
+    color: white;
+}
