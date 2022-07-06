@@ -153,4 +153,5 @@ body{
 .img-div img{
     width: 70%;
     height: 500px;
+    border-radius: 10px;
 }
