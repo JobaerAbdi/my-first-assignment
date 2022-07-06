@@ -156,19 +156,33 @@ body{
     border-radius: 10px;
 }
 #form{
-    padding: 100px 220px;
-    background: rgb(229, 245, 187);
+    padding: 90px 250px;
+    background: rgb(215, 238, 123);
     width: 500px;
     margin: 0 auto;
 }
 .email{
-    padding: 15px 40px;
+    padding: 12px 40px;
     font-size: 20px;
     background-color: rgb(223, 215, 215);
 }
 .lebel{
-    padding: 15px 30px;
+    padding: 12px 30px;
     font-size: 20px;
     background-color: orangered;
     color: white;
+}
+.update{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 80px;
+}
+.lorem{
+    font-size: 20px;
+    color: grey;
+    text-align: center;
+    width: 630px;
+    margin: 0 auto;
+    margin-bottom: 50px;
 }
